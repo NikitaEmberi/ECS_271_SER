@@ -30,7 +30,7 @@ To bypass the tunnel and access the system directly, use the following IP addres
 
 ## Contributors
 
-- Taher Travedi
+- Taher Travadi
   - Email: ttravadi@ucdavis.edu
   - LinkedIn: [Taher Travedi LinkedIn](https://www.linkedin.com/in/taher-travadi/)
 
