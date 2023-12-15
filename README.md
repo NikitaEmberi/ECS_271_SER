@@ -14,7 +14,7 @@ Online counseling services offered by virtual assistants provide a private and c
 
 ## How to Test
 
-To test our SER model, visit our website: [website link]. 
+To test our SER model, visit our website: [[website link](https://ecs271app-9kacbgvjqzvmzchhb2j2x2.streamlit.app/)]. </br>
 To bypass the tunnel and access the system directly, use the following IP address: `35.237.146.203`.
 
 ## Dependencies
